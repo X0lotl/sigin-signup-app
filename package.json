@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/X0lotl/sigin-signup-app/issues"
   },
-  "homepage": "https://github.com/X0lotl/sigin-signup-app#readme"
+  "homepage": "https://github.com/X0lotl/sigin-signup-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
